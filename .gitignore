@@ -1,0 +1,5 @@
+.devcontainer/devcontainer.json
+.vscode/sftp.json
+node_modules
+vendor
+src/modules/addons/lknnoteplus/src/assets/

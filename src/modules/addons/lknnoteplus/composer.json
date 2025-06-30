@@ -1,0 +1,27 @@
+{
+    "name": "linknacional/noteplus",
+    "type": "project",
+    "license": "proprietary",
+    "description": "Note PLus",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "config": {
+        "htaccess-protect": false,
+        "secure-http": true,
+        "platform-check": false,
+        "platform": {
+            "php": "8.1"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Lkn\\NotePlus\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Link Nacional",
+            "email": "ticket@linknacinal.com"
+        }
+    ]
+}
